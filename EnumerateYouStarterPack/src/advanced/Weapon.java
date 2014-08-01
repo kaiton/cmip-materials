@@ -1,7 +1,7 @@
 package advanced;
 
 enum Weapon {
-	RolledUpSock(1), PieceOfTwine(0), StaleLoafOfBread(10), FourxFour(30), Halberd(40), Bomb(100);
+	RolledUpSock(2), PieceOfTwine(1), StaleLoafOfBread(10), FourxFour(30), Halberd(40), Bomb(100);
 	
 	private int hitValue;
 	
