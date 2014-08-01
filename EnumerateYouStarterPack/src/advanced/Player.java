@@ -1,0 +1,5 @@
+package advanced;
+
+class Player {
+	
+}
